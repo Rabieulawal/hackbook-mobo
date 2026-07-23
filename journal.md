@@ -67,9 +67,13 @@ but i could not find a good one and ended the day oh and i also added a display 
 
 the lapse for this day are here
 <a href="https://lapse.hackclub.com/timelapse/e6BJlXP0E2l9"> lapse 1 (17 min) </a>
+
 <a href="https://lapse.hackclub.com/timelapse/UzW4XwU9ijQr"> lapse 2 (15 mins) </a>
+
 <a href="https://lapse.hackclub.com/timelapse/UzW4XwU9ijQ"> lapse 3 (26 mins) </a>
+
 <a href="https://lapse.hackclub.com/timelapse/4yO9-tS6QsLz"> lapse 4 (2.5 hrs) </a>
+
 <a href="https://lapse.hackclub.com/timelapse/tx_Q4U2pJNyh"> lapse 4 (4.5 hrs) </a>
 
 **Total time spent: 8h**
