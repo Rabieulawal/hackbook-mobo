@@ -136,7 +136,6 @@ i also wrote all of m journals from my real journal on to github
 
 <img width="768" height="605" alt="image" src="https://github.com/user-attachments/assets/929ede01-794f-475a-b7a7-0944e30fd2d7" />
 
-https://lapse.hackclub.com/timelapse/paLhetz1VoBc
 
 the lapse for this day are here
 
