@@ -104,5 +104,58 @@ then i converted it into pcb and hecked what size i want the mobo to be for my 1
 
 you can view the lapse <a href="https://lapse.hackclub.com/timelapse/J0sNRB-f07MA"> here </a>
 
+**Total time spent: 2hr and 45mins**
+
+# July 22th: starting the pcb desgin
+
+i just aranged all the componenets on to the pcb now how do i yap on that and yes i still have not aranged the audio stuff like the mic and specker yet.
+also i fixed a usb-c conector cuz it did not have a 3d model
+i made this a 6 layer pcb 
+
+L1        smd stuff and short traces 
+L2        Solid GND
+L3        High speed signals
+L4        GND plane
+L5        low speeds stuff
+L6        low speed stuff + power + back side smd traces
+
+
+
+<img width="461" height="424" alt="image" src="https://github.com/user-attachments/assets/87c82fc1-eafd-451c-a397-5596d8390116" />
+
+you can view the lapse <a href="https://lapse.hackclub.com/timelapse/s4lgSFZhRGzL"> here </a>
+
+**Total time spent: 4.5hr**
+
+# July 23th: doing some wiring
+
+this day i wired the pcbs short conections like all the resistor and capsitors on the m2 and power stuffon the top ;ayer only and also added usb diffrencical pairs one of which i broke and fixing it broke all the pairs and now i have a random traffic jam in the pcb ill have to see what to do with that 
+i also wrote all of m journals from my real journal on to github
+
+<img width="676" height="451" alt="image" src="https://github.com/user-attachments/assets/999311c9-36d8-4736-8094-62256d447f93" />
+
+<img width="768" height="605" alt="image" src="https://github.com/user-attachments/assets/929ede01-794f-475a-b7a7-0944e30fd2d7" />
+
+https://lapse.hackclub.com/timelapse/paLhetz1VoBc
+
+the lapse for this day are here
+
+<a href="https://lapse.hackclub.com/timelapse/paLhetz1VoBc"> lapse 1 (2hrs) </a>
+
+<a href="https://lapse.hackclub.com/timelapse/7OWOgC5KflWf"> lapse 2 (1hr) </a>
+
+<a href="https://lapse.hackclub.com/timelapse/gbw1T7mWE8Z-"> lapse 3 (15 mins) </a>
+
+<a href="https://lapse.hackclub.com/timelapse/0AtCXQS3zhZm"> lapse 4 ( 20 mins) </a>
+
+<a href="https://lapse.hackclub.com/timelapse/Bl70RRqhfBTj"> lapse 4 ( 10 mins) </a>
+
+<a href="https://lapse.hackclub.com/timelapse/7J0VacIkP8DO"> lapse 5 ( 1hr) </a>
+
+<a href="https://lapse.hackclub.com/timelapse/vJk3yUXgJNWP"> lapse 6 ( 1.5hr) </a>
+
+**Total time spent: 6h and some mins**
+
+
 
 
