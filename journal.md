@@ -1,4 +1,4 @@
-<img width="863" height="226" alt="image" src="https://github.com/user-attachments/assets/c9cd2166-ab64-4ce8-b91c-e568e1787052" />---
+---
 title: "hackbook-mobo"
 author: "Rabieulawal.h"
 description: "a laptop motherboard from which you can swap the compute mudule to upgrade it"
