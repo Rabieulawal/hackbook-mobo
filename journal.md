@@ -1,4 +1,4 @@
----
+<img width="863" height="226" alt="image" src="https://github.com/user-attachments/assets/c9cd2166-ab64-4ce8-b91c-e568e1787052" />---
 title: "hackbook-mobo"
 author: "Rabieulawal.h"
 description: "a laptop motherboard from which you can swap the compute mudule to upgrade it"
@@ -154,6 +154,21 @@ the lapse for this day are here
 <a href="https://lapse.hackclub.com/timelapse/vJk3yUXgJNWP"> lapse 6 ( 1.5hr) </a>
 
 **Total time spent: 6h and some mins**
+
+# July 24th: routing the usbs 
+
+this day i routed the usb conections and a lot of the HSIO from the M.2 slots while a lot of HSIO and 3 ucb 2 conections still remain. i pm.2 slots i preresisly  matched all te conections so that the data from the usb3 and the pcie so that all the data remains accurate and does not het skewed this time instead of blinding making a traffic jam i routed everything while keeping feuture conections in mind 
+
+i finished the entire left side of the pcbs conections for the and all the conections on the bottom of the SO-DIMM slot where the lattepanda will plug into.
+
+<img width="863" height="226" alt="image" src="https://github.com/user-attachments/assets/9a898ac6-71c1-4d9c-8556-f4c09093a7c8" />
+
+the lapse is available <a href="https://lapse.hackclub.com/timelapse/cKpTs78cu2ZS"> here </a>
+
+**total time spent: 7hrs**
+
+
+
 
 
 
