@@ -167,6 +167,38 @@ the lapse is available <a href="https://lapse.hackclub.com/timelapse/cKpTs78cu2Z
 
 **total time spent: 7hrs**
 
+# July 24th: rououting all hsio
+
+today i routed all the hsio conections and so the pcie and stuff and also trace matched them to prevent data loss and also all some orther low speed conections on the motherboard i also placed the sound components which include the mic and speaker chips and conectors where you can plug speakers into as well i also routed a usb 3 conection which i forgot to route the sound system is still not routed yet 
+
+<img width="1029" height="401" alt="image" src="https://github.com/user-attachments/assets/ac3d4066-f3b4-4a10-8d9a-f067f63988c5" />
+
+<img width="576" height="617" alt="image" src="https://github.com/user-attachments/assets/ac7803fe-f121-4e8d-9afc-1560653d519c" />
+
+<img width="545" height="516" alt="image" src="https://github.com/user-attachments/assets/597c7aa6-be52-40fa-b70f-3553bce9a063" />
+
+the lapse is available <a href="https://lapse.hackclub.com/timelapse/DMLVrCcidw4Y"> here </a>
+
+**total time spent: 6hrs**
+
+
+# July 24th: finishing up
+
+today i did a lot of stuff. i routed all the low speed conections and all the power conections i am surprised how productive i was today after those conections i checked all the drcs and fixed then i found that for some reason the aoftware liches and makes all diffrencical pairs 89.99mm instaed of 90 (what my drc is) so i did not fix that becides everything work.
+
+<img width="939" height="322" alt="image" src="https://github.com/user-attachments/assets/8d1679ba-5b1d-4d24-bbe0-50fc075cbcea" />
+
+
+<img width="875" height="256" alt="image" src="https://github.com/user-attachments/assets/3ed150ad-ed8c-42fe-b986-162a2233d8e5" />
+
+<img width="1070" height="336" alt="image" src="https://github.com/user-attachments/assets/e197d09c-84d5-4096-ad54-31c2dac577cd" />
+
+the lapse is available <a href="https://lapse.hackclub.com/timelapse/notpublished"> here </a>
+
+
+
+
+
 
 
 
